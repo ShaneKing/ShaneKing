@@ -1,6 +1,12 @@
-### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=ShaneKing&color=blueviolet&style=flat-square">
+
+<div align="center">
+	<img src="https://shaneking.org/images/drafts/coding-man.gif">
+</div>
 
 <!--
+### Hi there 👋
+
 **ShaneKing/ShaneKing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
